@@ -1,0 +1,27 @@
+
+.bla{
+width: 100px;
+height: 100px;
+background: black;
+font-size: 40px;
+color: green;
+cursor: pointer;
+}
+.ble{
+background: #000066;
+}
+
+
+
+body {
+	  background-color: #A9A9A9;
+	}
+	
+
+
+#imgpos {
+	position: absolute; 
+	; /* posiciona a 90px para a esquerda */ 
+	right: 900px;
+	top: 70px; /* posiciona a 70px para baixo */
+	}
